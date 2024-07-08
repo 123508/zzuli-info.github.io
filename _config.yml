@@ -1,0 +1,6 @@
+title: [Meteor-Z]
+description: 个人博客
+show_downloads: true
+theme: jekyll-theme-hacker
+gems:
+  - jekyll-mentions
