@@ -1,6 +1,7 @@
 # zzuli-info.github.io
 
-郑州轻工业大相关群组，欢迎提交各种Pr
+- 郑州轻工业大相关群组，欢迎[在此](https://github.com/zzuli-info/zzuli-info.github.io)提交各种群组Pr
+- 后续待补充
 
 ## 群组
 
